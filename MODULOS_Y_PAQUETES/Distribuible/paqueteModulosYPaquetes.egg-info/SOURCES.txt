@@ -1,0 +1,7 @@
+setup.py
+GuillermoCastroGarciaT9/conversiones.py
+GuillermoCastroGarciaT9/miscelanecadenas.py
+paqueteModulosYPaquetes.egg-info/PKG-INFO
+paqueteModulosYPaquetes.egg-info/SOURCES.txt
+paqueteModulosYPaquetes.egg-info/dependency_links.txt
+paqueteModulosYPaquetes.egg-info/top_level.txt
